@@ -1,0 +1,106 @@
+.background {
+    background-color: rgb(122, 134, 124);
+    
+}
+
+.common {
+    position: absolute;
+}
+
+.navigation {
+    background-color: light grey;
+    border: solid 3px whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 92px;
+}
+
+.linkcolor {
+    color: whitesmoke;
+}
+
+.nounderline {
+    text-decoration: none;
+}
+.main {
+    background-color: light rgb(148, 144, 144);
+   /* border: solid 3px whitesmoke; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    top: 100px;
+    left: 5px;
+    right: 5px;
+    bottom: 30px;
+
+}
+.pagelink {
+        text-decoration: none;
+        color: white;
+        padding: 10px;
+        text-align: center;
+}
+
+.tablaeucommon {
+        margin: auto;
+    }
+    .tab1 {
+        border: solid black 2px;
+        margin: auto;
+        margin-top: 80px;
+        width: 50%;
+}
+
+.footer {
+    background-color: azure;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* bottom: 5px;
+    left: 5px;
+    right: 5px; */
+    text-align: center; 
+    border: solid 3px whitesmoke;
+
+}
+
+.bottom {
+        height: 40px;
+        margin-top: 50px;
+        position: fixed;
+        left: 5px;
+        right: 5px;
+        bottom: 5px;
+}
+
+.largefont{
+    font-size: xx-large;
+}
+
+.mediumfont {
+    font-size: large;
+}
+
+.smallfont {
+    font-size: medium;
+}
+
+.extrasmallfont {
+    font-size: x-small;
+}
+
+.customcolor {
+    color: rgb(34, 32, 32);
+}
+
+.customdesign {
+    text-decoration: underline;
+}
+
+.captiontext {
+    color: rgb(36, 32, 32);
+    font-size: medium;
+    font-style: italic;
+}
+
+.center {
+    text-align: center;
+}
