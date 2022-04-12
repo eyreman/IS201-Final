@@ -18,6 +18,10 @@
     text-align: left;
 }
 
+.border {
+    border: solid 3px white;
+}
+
 .myfont {
     font-family: Georgia, 'Times New Roman', Times, serif;  
     font-size: 30px;
