@@ -1,0 +1,52 @@
+.background {
+    background-color: rgb(174, 224, 189);
+}
+.mybold {
+    font-weight: bold;
+}
+.italic {
+    font-style: italic;
+}
+.fontstyle {
+    font-style: oblique;
+}
+
+.mytextalignment {
+    text-align: center;
+}
+.mytextalignemnt2 {
+    text-align: left;
+}
+
+.border {
+    border: solid 3px white;
+}
+
+.myfont {
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+    font-size: 30px;
+}
+.myfont2 {
+    font-size: 15px;
+    color: rgb(32, 31, 31);
+}
+
+.color {
+    color: black;
+}
+
+.fontsizelarge {
+    font-size: 100px;
+}
+
+.colorwhite {
+    color: whitesmoke;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.alignmentright {
+    text-align: right;
+}
